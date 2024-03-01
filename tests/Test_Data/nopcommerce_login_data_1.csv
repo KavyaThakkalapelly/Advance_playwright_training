@@ -1,0 +1,7 @@
+"test_case","uname","pass","Exp_Result"
+"TC1","admin@yourstore.com","admin","Logout"
+"TC2","admin@yourstore.com","admin","Login was unsuccessful. Please correct the errors and try again.The credentials provided are incorrect."
+"TC3","admin@yourstore.com", ,"Login was unsuccessful. Please correct the errors and try again.The credentials provided are incorrect."
+"TC4", ,"admin","Login was unsuccessful. Please correct the errors and try again.The credentials provided are incorrect."
+"TC5","admin@yourstore.com","admin1","Login was unsuccessful. Please correct the errors and try again.The credentials provided are incorrect."
+

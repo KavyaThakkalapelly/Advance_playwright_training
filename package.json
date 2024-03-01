@@ -1,0 +1,20 @@
+{
+  "name": "advance_playwright_training",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "UI_Test": "playwright test --config=UITest.config.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.41.2",
+    "@types/node": "^20.11.19"
+  },
+  "dependencies": {
+    "csv": "^6.3.6",
+    "xlsx": "^0.18.5"
+  }
+}
