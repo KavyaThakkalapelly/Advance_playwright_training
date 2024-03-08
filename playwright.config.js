@@ -13,7 +13,8 @@ const { on } = require('events');
  */
 module.exports = defineConfig({
   //testDir: './tests/UI_Test',
-  testDir: './tests/ZeroBank_TestCase_POM',
+  //testDir: './tests/ZeroBank_TestCase_POM',
+  testDir: './tests/API_Test/Request_API',
 
   timeout: 15 * 10000,
   expect: {
